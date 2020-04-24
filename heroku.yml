@@ -1,0 +1,2 @@
+run:
+  command: ./install_auto.sh
